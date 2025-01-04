@@ -1,4 +1,3 @@
-import { Settings } from "@api/Settings";
 import { addPreSendListener, removePreSendListener } from "@api/MessageEvents";
 import definePlugin from "@utils/types";
 
