@@ -1,5 +1,6 @@
 # AlwaysSilent
 Always silent your messages (@silent)
+
 (Vencord custom plugin)
 
 # Install Guide
